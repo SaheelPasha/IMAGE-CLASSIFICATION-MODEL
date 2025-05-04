@@ -72,4 +72,4 @@ Learn how to build and train a CNN.
 Get experience in real-world machine learning.
 It’s a cool and important skill if you want to work in AI, computer vision, or data science!
 # OUTPUT
-
+![Image](https://github.com/user-attachments/assets/eb0da60e-5b54-490a-97b6-83440f0d7742)
