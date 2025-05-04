@@ -74,4 +74,4 @@ It’s a cool and important skill if you want to work in AI, computer vision, or
 # OUTPUT 1
 ![Image](https://github.com/user-attachments/assets/eb0da60e-5b54-490a-97b6-83440f0d7742)
 # OUTPUT 2
-
+![Image](https://github.com/user-attachments/assets/3b7cac25-b1dc-4f89-9043-00b2d733036d)
